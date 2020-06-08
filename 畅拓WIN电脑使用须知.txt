@@ -1,0 +1,58 @@
+﻿畅拓WIN电脑使用须知
+
+1. 下班请关机。如果是笔记本建议带回去，若留在公司记得锁到抽屉里。
+
+2. 台式电脑是由一块 SSD 作为硬盘，为了发挥 SSD 的最大特性，建议不在做逻辑分区，保存逻辑分区和物理分区 1:1，用文件夹代替逻辑分区。
+
+2. 电脑都是安装 Windows 10 Education 且激活，如需要再激活请找 Caine。
+
+3. Windows 是英文版，为了支持中文且不乱码，请按照 Changtuo Windows 10 settings.html 设置（位于 C:\CHNAGTUO）
+
+4. 每台电脑都有 C:\CHANGTUO 文件夹，内有公司常用的软件，可以根据自己的需要自行安装。
+
+-----------------------------------------------------
+默认已安装
+
+
+WinRAR
+Chrome
+QQ电脑管家
+Office2019(Word/Excel/PowerPoint)
+
+-----------------------------------------------------
+文件夹说明
+
+
+C:\CHANGTUO\INSTALL     内是软件安装包
+C:\CHANGTUO\PORTABLE    内是无需安装的绿色软件
+C:\CHANGTUO\JAVA        内是 Java 软件安装包
+
+
+软件安装包
+
+C:\CHANGTUO\INSTALL\Beyond Compare                  文件比较器
+C:\CHANGTUO\INSTALL\Navicat                         MySQL 和 MongoDB 数据库管理器
+C:\CHANGTUO\INSTALL\Proxifier                       VPN 翻墙 Switcher
+C:\CHANGTUO\INSTALL\TeamViewer                      远程桌面
+C:\CHANGTUO\INSTALL\Postman-win64-x.x.x-Setup.exe   API 测试工具
+C:\CHANGTUO\INSTALL\VSCodeSetup-x64-x.x.x.exe       代码编辑器（可代替记事本）
+
+
+绿色软件
+
+C:\CHANGTUO\PORTABLE\FastStone Capture              截图软件
+C:\CHANGTUO\PORTABLE\Rapid Environment Editor       环境变量编辑器
+C:\CHANGTUO\PORTABLE\Shadowsocks                    VPN 翻墙软件 SS
+C:\CHANGTUO\PORTABLE\ShadowsocksR-win-x.x.x         VPN 翻墙软件 SSR
+
+
+Java 开发
+
+C:\CHANGTUO\JAVA\Git-x.x.x-64-bit.exe                 Git
+C:\CHANGTUO\JAVA\jdk-x.x.x_windows-x64_bin.exe        Java SE Development Kit
+C:\CHANGTUO\JAVA\ideaIC-x.x.x.exe                     IntelliJ IDEA Community（用社区就足够，且速度更快）
+C:\CHANGTUO\JAVA\core-ng-code-style-idea-settings.jar core-ng-code-style（公司统一的代码风格设置，需导入到 IDEA）
+C:\CHANGTUO\JAVA\Docker for Windows Installer.exe     Docker Desktop
+https://github.com/chancetop-com/local_env            下载 docker compose
+
+
